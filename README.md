@@ -121,3 +121,6 @@ jobs:
 https://joeyvigil.github.io/vite-react-gh-pages/
 
 ![image](images/14.jpg)
+
+## sources
+https://vite.dev/guide/static-deploy.html#github-pages
