@@ -19,7 +19,7 @@ npm install vite@latest
 ![image](images/4.jpg)
 ![image](images/5.jpg)
 
-## move files to base
+## move files to root folder
 
 ![image](images/6.jpg)
 ![image](images/7.jpg)
